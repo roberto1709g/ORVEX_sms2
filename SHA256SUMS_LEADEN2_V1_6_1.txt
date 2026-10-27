@@ -1,0 +1,4 @@
+1c8e65e758699d70ba0d6b9c6b12907817fc31ec9abc4ccbbeb16be3bec6a5e2  app/src/main/assets/mensaje_whatsapp.mp3
+7193932916509911264d19c4640fd4a6cf5754630389d7ccd7a32acc1b898402  app/src/main/java/com/leaden2/app/VoiceAssistantService.java
+f87096d816bda785bf15be3778ec0283fe32a7da46aebde59464133d426ca729  app/src/main/java/com/leaden2/app/PlaybackService.java
+9ecbcffdbf86853c366f51bd9b8a57f6330baff320a1eb9d34d8d4e940398d1c  app/build.gradle
